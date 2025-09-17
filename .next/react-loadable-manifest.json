@@ -1,0 +1,14 @@
+{
+  "src\\components\\ModelManager.tsx -> @xenova/transformers": {
+    "id": "src\\components\\ModelManager.tsx -> @xenova/transformers",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_xenova_transformers_src_models_js-_app-pages-browser_node_mod-daecac.js"
+    ]
+  },
+  "src\\llm\\webllm.ts -> @xenova/transformers": {
+    "id": "src\\llm\\webllm.ts -> @xenova/transformers",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_xenova_transformers_src_models_js-_app-pages-browser_node_mod-daecac.js"
+    ]
+  }
+}

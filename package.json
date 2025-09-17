@@ -1,0 +1,27 @@
+{
+  "name": "private-transcribe-web-govuk-history",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "copy:govuk": "node scripts/copy-govuk-assets.mjs",
+    "postinstall": "npm run copy:govuk",
+    "lint": "echo lint omitted"
+  },
+  "dependencies": {
+    "@mlc-ai/web-llm": "latest",
+    "@xenova/transformers": "latest",
+    "govuk-frontend": "^5.11.2",
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "typescript": "^5.5.4"
+  }
+}
