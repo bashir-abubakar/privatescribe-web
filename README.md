@@ -12,9 +12,11 @@ No servers. No cloud. Your audio and text stay on your machine.
 
 > **Privacy:** All processing happens **on your device**. Nothing is uploaded.
 
-![App Screenshot](./images/Screenshot 2025-09-17 223556.png?raw=true)
-![App Screenshot](./images/Screenshot 2025-09-17 223526.png?raw=true)
-![App Screenshot](./images/Screenshot 2025-09-17 223449.png?raw=true)
+<p align="center">
+  <img src="./images/Screenshot 2025-09-17 22344.png" width="30%" />
+  <img src="./images/Screenshot 2025-09-17 223526.png" width="30%" />
+  <img src="./images/Screenshot 2025-09-17 223556.png" width="30%" />
+</p>
 
 ---
 
