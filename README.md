@@ -1,4 +1,3 @@
-````markdown
 # PrivateScribe
 
 **Private, on-device transcription & summarisation** with a clean GOV.UK-style interface.  
@@ -79,7 +78,7 @@ npm run copy:govuk
 # 4) Start dev server
 npm run dev
 # → open http://localhost:3000
-````
+
 
 **Windows PowerShell note (if npm is blocked):**
 
